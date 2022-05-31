@@ -4,6 +4,8 @@ Web3 NFT Open Platform For Novice Web3 Users.
 
 ## Deploy Information and Demo Video
 
+* Main App Deploy Url: <https://dev.web3nft.social>
+* Chat App(base on the XMTP chat app code) Deploy Url: <https://chat.web3nft.social>
 * [Some of the screenshots](./screenshot)
 * [Video Demo](#)
 * [front-end code](./frontend)
