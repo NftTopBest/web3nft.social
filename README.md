@@ -5,7 +5,8 @@ Web3 NFT Open Platform For Novice Web3 Users.
 ## Deploy Information and Demo Video
 
 * Main App Deploy Url: <https://dev.web3nft.social>
-* Chat App(base on the XMTP chat app code) Deploy Url: <https://chat.web3nft.social>
+* Chat App(base on the XMTP chat app code)
+  * Deploy Url: <https://chat.web3nft.social>
 * [Some of the screenshots](./screenshot)
 * Video Demo on Loom
   * [Video demo for Main Application and Chat Application](https://www.loom.com/share/f49d8e0c76d14e8eb8390804026b1a3b)
@@ -22,7 +23,8 @@ Web3 NFT Open Platform For Novice Web3 Users.
   * Will build a full function chat && work application in to main Application soon
 * Contract deployed
   * [Mumbai](#)
-  * [Rinkeby](#)
+    * [NFT Deploy](https://mumbai.polygonscan.com/tx/0x6363ce4665a2f2473be38631a72b0240e0d79dfe3a3032a462a4e97deb3319b1)
+    * [NFT Marketplace Deploy](https://mumbai.polygonscan.com/tx/0x60b4235af6c0d4bcddf66fbe2d2cd55d40bba628ffeeae3805ce88f390512ae1)
   * [Near: Aurora](#)
   * [Moonbeam](#)
 
