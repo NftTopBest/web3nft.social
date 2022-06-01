@@ -7,7 +7,10 @@ Web3 NFT Open Platform For Novice Web3 Users.
 * Main App Deploy Url: <https://dev.web3nft.social>
 * Chat App(base on the XMTP chat app code) Deploy Url: <https://chat.web3nft.social>
 * [Some of the screenshots](./screenshot)
-* [Video Demo on Loom](https://www.loom.com/share/f49d8e0c76d14e8eb8390804026b1a3b)
+* Video Demo on Loom
+  * [Video demo for Main Application and Chat Application](https://www.loom.com/share/f49d8e0c76d14e8eb8390804026b1a3b)
+  * [Video demo for deploy nft with ChainIDE](https://www.loom.com/share/54d8abfc2e4b44798c9c4f759514faa3)
+  * [Video demo for deploy nft marketplace with ChainIDE](https://www.loom.com/share/14213d80587349e68c5db461b2cb8e5f)
 * [front-end code](./frontend)
 * [contract code](./contract)
 * Main application frontend deployed
