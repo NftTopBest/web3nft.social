@@ -150,9 +150,9 @@ Currently with two main Features:
 
 ## What's NEXT
 
-* Build the UI that support user to mint anyone's page NFT
-* Build the UI for user to create their own NFT-D-Market that could earn exchange fee without any coding skills
+* Build the UI that supports the user to mint anyone's page NFT
+* Build the UI for the user to create their own NFT-D-Market that could earn an exchange fee without any coding skills
 * Add traffic status information for every wallet address home page
 * Finish the Blog and Instagram clone with Ceramic and LIT permission control
-* Add $NTB token for user to buy and work as the platform's coin (every activity require pay with $NTB)
-* Add more function that make the W3NS to be more like a Developer open platform that they do not re-invent the base grears and only need to focus on build application features (Think about Facebook Application Central but on the BlockChain Area!)
+* Add $NTB token for the user to buy and work as the platform's coin (every activity require paying with $NTB)
+* Add more functions that make the W3NS more like a Developer open platform that they do not re-invent the base gears and only need to focus on building application features (Think about Facebook Application Central but on the BlockChain Area!)
