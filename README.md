@@ -87,26 +87,26 @@ Currently with two main Features:
 <summary><h2>Application Features </h2></summary>
 
 * Support all web2 social platform login
-  * Easier for new Web3 user (thanks to the Web3Auth)
+  * Easier for new Web3 users (thanks to the Web3Auth)
   * Login by many social platforms
   * Login by metamask/walletconnect
-  * While store data to Ceramic, will trigger Self.ID login too
+  * While storing data to Ceramic, will trigger Self.ID login too
 * CyberConnect
   * Follow/unfollow actions
   * Followers list
   * Followings list
 * Profile data save on Ceramic
 * Web3 LinkTree
-  * User can add many social platform link to their W3NS home page
-  * Data store on Ceramic
+  * Users can add many social platform links to their W3NS home page
+  * Data stored on Ceramic
   * Data permission control by LIT
 * Search any address to show the Web3 things
   * Use KNN3 to get the NFT user information
-* [WIP] Web3 instagram Clone
+* [WIP] Web3 Instagram Clone
   * With LIT to have content permission control (user must mint poster's NFT to have access to the page)
 * [WIP] Web3 Blogger Clone
   * With LIT to have content permission control (user must mint poster's NFT to have access to the article)
-* [WIP] Anyone can create a NFT marketplace without code to earn exchange fee
+* [WIP] Anyone can create an NFT marketplace without code to earn an exchange fee
 
 </details>
 
