@@ -2,7 +2,8 @@
 
 Web3 NFT Open Platform For Novice Web3 Users.
 
-Currently with two main Features: 
+Currently with two main Features:
+
 * Linktree like home page for every wallet address that user can follow/unfollow it, and chat with the wallet address
 * chat system have a full functions filter logic that support with CyberConnect data and wallet address's onChain data
 
@@ -111,6 +112,7 @@ Currently with two main Features:
 
 <details>
 <summary><h2> Hackathon Tracks Bounty </h2></summary>
+
 ### XMTP Bounty [#1](https://gitcoin.co/issue/28887), [#2](https://gitcoin.co/issue/28892), [CyberConnect](https://gitcoin.co/issue/28881) and [Infura](https://gitcoin.co/issue/28876)
 
 * Gate messages with CyberConnect and LIT
