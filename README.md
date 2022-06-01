@@ -2,6 +2,23 @@
 
 Web3 NFT Open Platform For Novice Web3 Users.
 
+Currently with two main Features: 
+* Linktree like home page for every wallet address that user can follow/unfollow it, and chat with the wallet address
+* chat system have a full functions filter logic that support with CyberConnect data and wallet address's onChain data
+
+<table>
+  <tr>
+    <td valign="top"><img src="./screenshot/1.png"/></td>
+    <td valign="top"><img src="./screenshot/2.png"/></td>
+    <td valign="top"><img src="./screenshot/7.png"/></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="./screenshot/15.png"/></td>
+    <td valign="top"><img src="./screenshot/16.png"/></td>
+    <td valign="top"><img src="./screenshot/17.png"/></td>
+  </tr>
+</table>
+
 ## Deploy Information and Demo Video
 
 * Main App Deploy Url: <https://dev.web3nft.social>
@@ -19,7 +36,7 @@ Web3 NFT Open Platform For Novice Web3 Users.
   * [Vercel](https://web3nft.social)
   * [Meson](#)
 * Chat App
-  * Currently build base on the XMTP example chat app: [Pull Request](https://github.com/xmtp/example-chat-react/pull/62)
+  * Currently build base on the XMTP example chat app: [Pull Request](https://github.com/NftTopBest/example-chat-react-gitcoin-hackathon/pull/1)
   * Will build a full function chat && work application in to main Application soon
 * Contract deployed
   * [Mumbai](#)
