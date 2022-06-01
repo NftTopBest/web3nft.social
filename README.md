@@ -30,19 +30,16 @@ Web3 NFT Open Platform For Novice Web3 Users.
 <summary><h2>Technologies used</h2></summary>
 
 * BlockChain Network
-  * [ ] Polygon Mumbai testnet
-  * [ ] Rinkeby
+  * [x] Polygon Mumbai testnet: [NFT Deploy](https://mumbai.polygonscan.com/tx/0x6363ce4665a2f2473be38631a72b0240e0d79dfe3a3032a462a4e97deb3319b1), [NFT Marketplace Deploy](https://mumbai.polygonscan.com/tx/0x60b4235af6c0d4bcddf66fbe2d2cd55d40bba628ffeeae3805ce88f390512ae1)
   * [ ] Near: Aurora
   * [ ] Moonbeam
 * Smart Contract Dev Env
-  * [ ] Hardhat
-  * [ ] Truffle
-  * [ ] ChainIDE
+  * [x] Hardhat
+  * [x] ChainIDE
 * RPC endpoints
   * [x] Infura
 * Front-end hosting && image assets && CDN
   * [x] Vercel
-  * [ ] Arweave
   * [x] IPFS
   * [x] Meson
 * User profiles / Blog posts store / Albumn Store / Permission Control
@@ -93,9 +90,9 @@ Web3 NFT Open Platform For Novice Web3 Users.
 
 </details>
 
-## Hackathon Tracks
-
-### XMTP Bounty [#1](https://gitcoin.co/issue/28887), [#2](https://gitcoin.co/issue/28892) and [CyberConnect](https://gitcoin.co/issue/28881)
+<details>
+<summary><h2> Hackathon Tracks Bounty </h2></summary>
+### XMTP Bounty [#1](https://gitcoin.co/issue/28887), [#2](https://gitcoin.co/issue/28892), [CyberConnect](https://gitcoin.co/issue/28881) and [Infura](https://gitcoin.co/issue/28876)
 
 * Gate messages with CyberConnect and LIT
   * User can filter by CyberConnect Social Data: friends, followings, followers
@@ -110,3 +107,24 @@ Web3 NFT Open Platform For Novice Web3 Users.
   * User can follow / unfollow some one on W3NS home page
   * User can check someone's followers / followings (something like Instagram)
   * User can click on the `Chat` button to jump to the XMTP application to chat with the user
+* use the Infura as rpc service
+
+### [ChainIDE Bounty](https://gitcoin.co/issue/28895), [Polygon](https://gitcoin.co/issue/28870)
+
+* We deploy two contract with ChainIDE
+* NFT Contract
+  * use the ERC721A to save gas fee while mint multiple NFTs
+  * can paused anytime
+  * can setup whitelist
+  * any address can bind to different number, that means different whitelist address can have different max mint amount of NFTs
+  * can setup royalties
+* NFT Marketplace Contract
+  * everyone can use the marketplace to generate a new market that can earn exchange fee
+
+### [Meson Network](https://gitcoin.co/issue/28891)
+
+* try to deploy to Meson cdn, but while visiting index.html, it access the javascript file getting error, so I have to fallback to vercel.
+
+</details>
+
+## What's NEXT
