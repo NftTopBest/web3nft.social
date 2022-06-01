@@ -156,3 +156,6 @@ Currently with two main Features:
 * Finish the Blog and Instagram clone with Ceramic and LIT permission control
 * Add $NTB token for the user to buy and work as the platform's coin (every activity require paying with $NTB)
 * Add more functions that make the W3NS more like a Developer open platform that they do not re-invent the base gears and only need to focus on building application features (Think about Facebook Application Central but on the BlockChain Area!)
+* Build the Chat UI in the Tailwind Style
+
+<img src="./screenshot/18.png" width="500" />
