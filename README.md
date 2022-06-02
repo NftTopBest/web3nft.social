@@ -159,3 +159,8 @@ Currently with two main Features:
 * Build the Chat UI in the Tailwind Style
 
 <img src="./screenshot/18.png" width="500" />
+
+## Contact Information
+
+* Twitter: [Web3HackerNinja](https://twitter.com/web3hackerninja)
+* Discord: [Web3Hacker.Ninja HD](https://discord.gg/34rHGATcHy)
