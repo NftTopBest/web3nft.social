@@ -22,6 +22,7 @@ Currently with two main Features:
 
 ## Deploy Information and Demo Video
 
+* [Keynote](./Web3NFT.Social.pdf)
 * Main App Deploy Url: <https://dev.web3nft.social>
 * Chat App(base on the XMTP chat app code)
   * Deploy Url: <https://chat.web3nft.social>
