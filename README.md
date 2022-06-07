@@ -2,6 +2,8 @@
 
 Web3 NFT Open Platform For Novice Web3 Users.
 
+## *Early Access for web3nft.social, Will have chance to get limited NFT!!!: <https://discord.gg/sAmc98A5q5>*
+
 Currently with two main Features:
 
 * Linktree like home page for every wallet address that user can follow/unfollow it, and chat with the wallet address
