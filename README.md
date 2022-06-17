@@ -22,6 +22,7 @@ Currently with these Features:
     <td valign="top"><img src="./screenshot/17.png"/></td>
   </tr>
 </table>
+<img src="./screenshot/d-blog.png"/>
 
 ## Deploy Information and Demo Video
 
@@ -32,14 +33,11 @@ Currently with these Features:
 * [Some of the screenshots](./screenshot)
 * Video Demo on Loom
   * [Video demo for Main Application and Chat Application](https://www.loom.com/share/f49d8e0c76d14e8eb8390804026b1a3b)
-  * [Video demo for deploy nft with ChainIDE](https://www.loom.com/share/54d8abfc2e4b44798c9c4f759514faa3)
-  * [Video demo for deploy nft marketplace with ChainIDE](https://www.loom.com/share/14213d80587349e68c5db461b2cb8e5f)
 * [front-end code](./frontend)
 * [contract code](./contract)
 * Main application frontend deployed
   * [Arweave](#)
-  * [Vercel](https://web3nft.social)
-  * [Meson](#)
+  * [Vercel](https://dev.web3nft.social)
 * Chat App
   * Currently build base on the XMTP example chat app: [Pull Request](https://github.com/NftTopBest/example-chat-react-gitcoin-hackathon/pull/1)
   * Will build a full function chat && work application in to main Application soon
@@ -113,7 +111,6 @@ Currently with these Features:
 * [WIP] Anyone can create an NFT marketplace without code to earn an exchange fee
 
 </details>
-
 
 ## What's NEXT
 
