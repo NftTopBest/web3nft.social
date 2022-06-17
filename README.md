@@ -113,43 +113,6 @@ Currently with two main Features:
 
 </details>
 
-<details>
-<summary><h2> Hackathon Tracks Bounty </h2></summary>
-
-### XMTP Bounty [#1](https://gitcoin.co/issue/28887), [#2](https://gitcoin.co/issue/28892), [CyberConnect](https://gitcoin.co/issue/28881) and [Infura](https://gitcoin.co/issue/28876)
-
-* Gate messages with CyberConnect and LIT
-  * User can filter by CyberConnect Social Data: friends, followings, followers
-  * User can pick the `all` filter that means all the conversations will show up event they do not include in the CyberConnect Social Data
-  * User can add LIT control filter too
-    * User can select which chain to query for the conditions below
-    * User can add ETH, ERC20, ERC721, ERC777, ERC1155 token filters with contract address, comparators (<,<=, =, >=, >), and number
-    * All of conditions can be `Intersection` or `Union`
-    * User hit the `Calculate with LIT` button will trigger query with LIT and also show the calculate result for each condition and the final result
-    * The calculate result will be `intersection` with the CyberConnect Social Data
-* In the messages list, user can click on the avatar to go to the [W3NS](https://web3nft.social/0xC6E58fb4aFFB6aB8A392b7CC23CD3feF74517F6C) home page to check the user's more detail social informations
-  * User can follow / unfollow some one on W3NS home page
-  * User can check someone's followers / followings (something like Instagram)
-  * User can click on the `Chat` button to jump to the XMTP application to chat with the user
-* use the Infura as rpc service
-
-### [ChainIDE Bounty](https://gitcoin.co/issue/28895), [Polygon](https://gitcoin.co/issue/28870)
-
-* We deploy two contract with ChainIDE
-* NFT Contract
-  * use the ERC721A to save gas fee while mint multiple NFTs
-  * can paused anytime
-  * can setup whitelist
-  * any address can bind to different number, that means different whitelist address can have different max mint amount of NFTs
-  * can setup royalties
-* NFT Marketplace Contract
-  * everyone can use the marketplace to generate a new market that can earn exchange fee
-
-### [Meson Network](https://gitcoin.co/issue/28891)
-
-* try to deploy to Meson cdn, but while visiting index.html, it access the javascript file getting error, so I have to fallback to vercel.
-
-</details>
 
 ## What's NEXT
 
