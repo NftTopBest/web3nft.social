@@ -1,6 +1,13 @@
 ## W3NS - Web3 NFT Social Platform
 
-Web3 NFT Open Platform For Novice Web3 Users.
+0618 updates: after eth-shanghai, we build new module for our system:
+* d-blog-to-earn: https://github.com/NftTopBest/d-blog-to-earn
+* web3-note-to-earn: https://github.com/NftTopBest/web3-note-to-earn
+
+
+
+## Slogan: Make every web2 creator easily create product and earn on web3.
+
 
 ## *Early Access for web3nft.social, Will have chance to get limited NFT!!!: <https://discord.gg/sAmc98A5q5>*
 
